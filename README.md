@@ -37,3 +37,6 @@ Designed in Figma to refine usability and visual aesthetics.
 
 # 💡 Why MacSync?
 📌 First-year students often struggle with navigating campus, managing multiple deadlines, and maintaining a healthy academic-social balance. MacSync consolidates these essential student needs into a single, intuitive platform—offering not just a productivity tool, but a holistic university experience enhancer.
+
+McMaster University
+SFWRENG 4HC3: Human Computer Interfaces Project
